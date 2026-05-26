@@ -1,0 +1,8 @@
+C:\Users\Andrey\Desktop\Drivemat\obj\Debug\net8.0\Drivemat.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\Drivemat\obj\Debug\net8.0\Drivemat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Desktop\Drivemat\obj\Debug\net8.0\Drivemat.gentestingplatformentrypointinputcache.cache
+C:\Users\Andrey\Desktop\Drivemat\obj\Debug\net8.0\Drivemat.genautoregisteredextensionsinputcache.cache
+C:\Users\Andrey\Desktop\Drivemat\obj\Debug\net8.0\Drivemat.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\Drivemat\obj\Debug\net8.0\Drivemat.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\Drivemat\obj\Debug\net8.0\Drivemat.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Drivemat\obj\Debug\net8.0\Drivemat.sourcelink.json
